@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 100%;
+}
+
+
+.notes{
+    align-items: center;
+    width: 270px;
+}
+.createTit{
+    text-align: center;
+}
+.crBtn{
+    width: 100%;
+    margin:auto;
+}
+.createTxt{
+    text-align: center;
+    width: 180px;
+    height: 100px;
+}
+
+.footer{
+    width: 100%;
+}
